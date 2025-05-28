@@ -1,5 +1,6 @@
 # Delta2
 Repository for my final submission for delta's task 2
+Zoom out to 90% for best experience (to avoid scroll bars)
 1. Game Setup
 1.1 Map & Environment
 Top-down view: Players see the city from above, including roads, buildings, and open zones.
